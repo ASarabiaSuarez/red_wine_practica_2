@@ -12,5 +12,11 @@ La actividad ha sido realizada en pareja por Esther González y Alberto Sarabia.
 
 ## Ficheros del codigo fuente.
 
+* /src/nombre del .rmd
+* /csv/winequality-red.csv
+
+
 ## Recursos
 
+ * https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
+ * Calvo M, Subirats L, Pérez D (2019). Introducción a la limpieza y análisis de los datos. Editorial UOC
