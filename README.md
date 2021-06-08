@@ -13,8 +13,8 @@ La actividad ha sido realizada en pareja por Esther González y Alberto Sarabia.
 ## Ficheros del codigo fuente.
 
 * /src/nombre del .rmd
-* /csv/winequality-red.csv
-
+* /datasets/winequality-red.csv
+* /datasets/winequality-red_clean.csv
 
 ## Recursos
 
